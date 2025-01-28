@@ -1,0 +1,4 @@
+# I understand that the CI/CD pipeline refers to updating code in a program
+# I'm not sure how to demonstrate that in a script
+# I'm extremely accomplished but this is a new field and I'm trying not to have too much
+# of a chip on my shoulder
