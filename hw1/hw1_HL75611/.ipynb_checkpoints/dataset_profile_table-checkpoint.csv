@@ -1,0 +1,17 @@
+,Data Type,Unique Values,Missing Values (%),Min,Max,Mean,Median,Std Dev,Top 3 Values
+Name,object,11562,0.011962437944853162,,,,,,"Need for Speed: Most Wanted, FIFA 14, Ratatouille"
+Platform,object,31,0.0,,,,,,"PS2, DS, PS3"
+Year_of_Release,float64,39,1.60894790358275,,,,,,
+Genre,object,12,0.011962437944853162,,,,,,"Action, Sports, Misc"
+Publisher,object,581,0.32298582451103536,,,,,,"Electronic Arts, Activision, Namco Bandai Games"
+NA_Sales,float64,402,0.0,,,,,,
+EU_Sales,float64,307,0.0,,,,,,
+JP_Sales,float64,244,0.0,,,,,,
+Other_Sales,float64,155,0.0,,,,,,
+Global_Sales,float64,629,0.0,,,,,,
+Critic_Score,float64,82,51.33082122136492,,,,,,
+Critic_Count,float64,106,51.33082122136492,,,,,,
+User_Score,object,96,40.0980919911478,,,,,,"tbd, 7.8, 8"
+User_Count,float64,888,54.60254799928226,,,,,,
+Developer,object,1696,39.61361325438124,,,,,,"Ubisoft, EA Sports, EA Canada"
+Rating,object,8,40.486871224355525,,,,,,"E, T, M"
