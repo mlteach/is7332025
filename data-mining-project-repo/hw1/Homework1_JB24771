@@ -22,7 +22,7 @@ print(f"Total Number of Columns: {num_columns}\n")
 
 # Total number of books
 total_books = df.shape[0]
-print(f"📚 Total Books: {total_books}")
+print(f" Total Books: {total_books}")
 
 # Summary statistics for numeric attributes
 numeric_stats = df.describe().T
