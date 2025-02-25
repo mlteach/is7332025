@@ -1,0 +1,5 @@
+Since the size of the dataset is too high to upload in the Github, I'm providing the link to download the data.
+
+https://data.montgomerycountymd.gov/Public-Safety/Traffic-Violations/4mse-ku6q/about_data
+
+From the above link, we can export all the data in the CSV format.
