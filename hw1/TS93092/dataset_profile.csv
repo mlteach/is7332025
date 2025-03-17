@@ -1,0 +1,14 @@
+Column Name,Data Type,Category,Min,Max,Mean,Median,Std Dev,Unique Values,Top 3 Frequent Values,Missing Values (%)
+Date,Datetime,Temporal,,,,,,,,60.65573770491803
+City,Object,Discrete,,,,,,10.0,"{'New York': 366, 'Los Angeles': 366, 'London': 366}",0.0
+Country,Object,Discrete,,,,,,9.0,"{'USA': 732, 'UK': 366, 'China': 366}",0.0
+AQI,Numeric,Continuous,30.0,300.0,164.64207650273224,165.0,78.57165923842548,,,0.0
+PM2.5 (µg/m³),Numeric,Continuous,5.1,250.0,126.38057377049181,125.85,71.01608882912937,,,0.0
+PM10 (µg/m³),Numeric,Continuous,10.0,300.0,154.785956284153,152.55,84.04554781292649,,,0.0
+NO2 (ppb),Numeric,Continuous,5.1,100.0,52.96071038251367,52.8,27.36141342405719,,,0.0
+SO2 (ppb),Numeric,Continuous,2.0,50.0,25.94032786885246,26.2,14.00153124416574,,,0.0
+CO (ppm),Numeric,Continuous,0.1,9.99,5.023841530054645,4.91,2.8515734827826296,,,0.0
+O3 (ppb),Numeric,Continuous,10.1,200.0,105.32592896174864,105.75,55.03217546106515,,,0.0
+Temperature (°C),Numeric,Continuous,-10.0,40.0,15.06191256830601,15.0,14.590761177121655,,,0.0
+Humidity (%),Numeric,Continuous,10.0,90.0,50.65710382513661,51.0,23.19587956937919,,,0.0
+Wind Speed (m/s),Numeric,Continuous,0.5,15.0,7.788907103825137,7.8,4.223788021389713,,,0.0
